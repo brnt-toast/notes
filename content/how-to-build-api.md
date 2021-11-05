@@ -7,7 +7,7 @@
 
 # Design
 fleshing out the implementation and spinning up a prototype
-### Resources
+### ID Resources
 "Look at the terms in your application domain" -- [1]
 > For example: A door may be a resource whereas color and door handle are its attributes, and open and close are the actions the door may afford. -- [1]
 
