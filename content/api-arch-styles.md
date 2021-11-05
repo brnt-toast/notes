@@ -1,3 +1,0 @@
-* CRUD
-* Event-Driven
-* Hypermedia 
